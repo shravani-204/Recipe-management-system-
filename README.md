@@ -120,6 +120,8 @@ More Categories: Expand the list of categories or allow users to create their ow
 Print Recipe: Add an option to print the recipe.
 project image : 
 <img width="912" alt="project screenshot " src="https://github.com/user-attachments/assets/268d4d8b-ba05-41f7-84bb-eff932b41085" />
+project working video 
+https://drive.google.com/file/d/1xiEWOG4KOeHBcMfdO-dAfUMsWtKPn3zg/view?usp=drive_link    head
 
 
 
