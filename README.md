@@ -119,4 +119,4 @@ More Categories: Expand the list of categories or allow users to create their ow
 
 Print Recipe: Add an option to print the recipe.
 
-SEARCH THE TASTY RECIPES AND ENJOY IT 
+SEARCH THE TASTY RECIPES AND ENJOY IT ...!
