@@ -122,8 +122,6 @@ project image :
 <img width="912" alt="project screenshot " src="https://github.com/user-attachments/assets/268d4d8b-ba05-41f7-84bb-eff932b41085" />
 
 
-  
-
 
 
 SEARCH THE TASTY RECIPES AND ENJOY IT ...!
