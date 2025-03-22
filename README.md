@@ -118,5 +118,12 @@ Comments & Ratings: Allow users to leave comments and rate recipes.
 More Categories: Expand the list of categories or allow users to create their own custom categories.
 
 Print Recipe: Add an option to print the recipe.
+project image : 
+<img width="912" alt="project screenshot " src="https://github.com/user-attachments/assets/268d4d8b-ba05-41f7-84bb-eff932b41085" />
+
+
+  
+
+
 
 SEARCH THE TASTY RECIPES AND ENJOY IT ...!
